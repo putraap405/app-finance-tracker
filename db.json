@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "local-admin",
+      "username": "jdy23",
+      "email": "jdy23@local",
+      "password": "$2b$12$tH.5O1XuJIV1Qs5k2Siww.ypVyxx/Mk9pqtMLyeMo0WZF7KGNcjVa",
+      "role": "admin",
+      "is_banned": false
+    }
+  ],
+  "devices": [],
+  "licenses": []
+}

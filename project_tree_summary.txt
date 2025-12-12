@@ -1,0 +1,50 @@
+./
+  components/
+  lib/
+  pages/
+  scripts/
+  ADMIN_INFO.json
+  README.md
+  db.json
+  next.config.js
+  package.json
+  vercel.json
+pages/
+  api/
+  app.js
+  index.js
+  login.js
+pages/api/
+  admin/
+  auth/
+  devices/
+  licenses/
+pages/api/auth/
+  login.js
+  register.js
+pages/api/devices/
+  list.js
+  register.js
+  unregister.js
+pages/api/licenses/
+  validate.js
+pages/api/admin/
+  licenses/
+  users/
+pages/api/admin/licenses/
+  create.js
+  list.js
+pages/api/admin/users/
+  ban.js
+  list.js
+lib/
+  auth.js
+  clientDevice.js
+  licenseClient.js
+  readWriteDB.js
+  supabaseClient.js
+  supabaseServer.js
+components/
+  MainApp.js
+scripts/
+  createAdmin.js

@@ -1,0 +1,6 @@
+{
+  "note": "For local fallback (no Supabase env vars), an admin user already exists in db.json.",
+  "admin_username": "jdy23",
+  "admin_password": "Bukapintu22",
+  "supabase": "If you use Supabase, run scripts/createAdmin.js to create admin in Supabase."
+}
